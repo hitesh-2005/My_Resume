@@ -97,5 +97,6 @@
 - 💻 Solved **500+ algorithmic problems** across LeetCode, Codeforces, and GeeksforGeeks
 
 ---
+<p align="center"><i>Open to collaborating on CV/ML projects — feel free to reach out.</i></p>
 
 
