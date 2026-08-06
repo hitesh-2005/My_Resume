@@ -94,7 +94,7 @@
 - 📜 Applied Machine Learning in Python — Coursera
 - 📜 Java Programming — HackerRank
 - 📜 Data Analytics Job Simulation — Deloitte Virtual Experience Program
-- 💻 Solved **500+ algorithmic problems** across LeetCode, Codeforces, and GeeksforGeeks
+- 💻 Solved **300+ algorithmic problems** across LeetCode, Codeforces, and GeeksforGeeks
 
 ---
 <p align="center"><i>Open to collaborating on CV/ML projects — feel free to reach out.</i></p>
