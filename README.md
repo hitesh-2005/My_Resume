@@ -17,11 +17,11 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Computer Science and Engineering (AI & ML), **Vellore Institute of Technology** — CGPA: 8.64 (2023 – 2027)
+- 🎓 B.Tech in Computer Science and Engineering (AI & ML), **Vellore Institute of Technology** — CGPA: 8.68 (2023 – 2027)
 - 🔭 Currently building intelligent systems across **computer vision, deep learning, and predictive modelling**
 - 🧰 Practical experience with **object detection, image processing, and GANs**
 - 💼 Former **AI & ML Intern** at Edunet Foundation, in association with Microsoft & AICTE
-- 🌱 Actively solving algorithmic problems — **500+ problems** across LeetCode, Codeforces, and GeeksforGeeks
+- 🌱 Actively solving algorithmic problems — **300+ problems** across LeetCode, Codeforces, and GeeksforGeeks
 - 📫 Reach me at **hiteshgupta5151@gmail.com**
 - 📍 Based in Bhopal, Madhya Pradesh, India
 
@@ -59,19 +59,19 @@
 
 ### 🧪 Featured Projects
 
-#### 🛒 [Smart Retail Checkout System](https://github.com/YOUR-GITHUB-USERNAME/smart-retail-checkout)
+#### 🛒 [Smart Retail Checkout System](https://github.com/hitesh-2005/Smart_Retail_Checkout_System)
 *Python · YOLOv8 · FastAPI · React.js · PyTorch · Ultralytics*
 - End-to-end AI-powered retail billing system — trained a **YOLOv8s** model on the **IIT Patna Grocery Dataset** (5,983 images, 1,816 product classes) for 100 epochs, achieving **mAP@50 of 0.285** across Indian retail brands like Amul, Maggi, and Haldirams.
 - Built a **FastAPI** backend for real-time inference and a **React.js** frontend with multi-image upload, confidence-based filtering, and automatic itemized billing with GST calculation and print export.
 - Tackled real-world ML challenges: class imbalance (avg. 3.3 samples/class), mixed annotation formats, and PyTorch/Ultralytics version compatibility.
 
-#### 🚗 [Lane Detection and Driver Assistance System](https://github.com/YOUR-GITHUB-USERNAME/lane-detection-driver-assistance)
+#### 🚗 [Lane Detection and Driver Assistance System](https://github.com/hitesh-2005/Lane-Detection-Assistance-System)
 *Python · NumPy · OpenCV · Ultralytics YOLO11*
 - End-to-end computer vision pipeline for lane segmentation and steering angle estimation, training a **YOLO11n-seg** model on the **Indian Driving Dataset (IDD)** with 6,993 annotated road images.
 - Engineered a mask-to-YOLO annotation pipeline using OpenCV contour detection to convert segmentation masks into polygon labels for an 80/20 train-validation split.
 - Designed a geometric steering angle algorithm (±30° range) from lane-centroid offset, with inference scripts and visual overlays for interpretability.
 
-#### 🌱 [Human Sustainability Score Prediction Model](https://github.com/YOUR-GITHUB-USERNAME/human-sustainability-score)
+#### 🌱 [Human Sustainability Score Prediction Model](https://github.com/hitesh-2005/carbonlens)
 *Python · Scikit-learn · pandas · NumPy · Matplotlib*
 - AI-driven modular pipeline (Electricity, Transport, Recycling, Tech) predicting individual sustainability scores by converting lifestyle inputs into standardized CO2 equivalents using logistic scaling functions.
 - Trained and evaluated **six ML models**; Linear Regression performed best with **R² = 0.68, MAE = 0.37**.
