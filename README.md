@@ -1,102 +1,94 @@
-<h1 align="center">Hi 👋, I'm Hitesh Gupta</h1>
-<h3 align="center">AI & ML Student | Building Intelligent Systems in Computer Vision, Deep Learning & Predictive Modelling</h3>
+<h1 align="center">Hitesh Gupta</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hitesh-gupta2005/" target="_blank">
+  <b>B.Tech in Computer Science and Engineering (AI & ML) — Vellore Institute of Technology</b><br>
+  CGPA: 8.68 | 2023 – 2027 | Bhopal, India
+</p>
+
+<p align="center">
+  <a href="./RESUME_HITESH_GUPTA.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/hitesh-gupta2005" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:hiteshgupta5151@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://github.com/hitesh-2005" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:hiteshgupta5151@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 📌 Summary
 
-- 🎓 B.Tech in Computer Science and Engineering (AI & ML), **Vellore Institute of Technology** — CGPA: 8.68 (2023 – 2027)
-- 🔭 Currently building intelligent systems across **computer vision, deep learning, and predictive modelling**
-- 🧰 Practical experience with **object detection, image processing, and GANs**
-- 💼 Former **AI & ML Intern** at Edunet Foundation, in association with Microsoft & AICTE
-- 🌱 Actively solving algorithmic problems — **300+ problems** across LeetCode, Codeforces, and GeeksforGeeks
-- 📫 Reach me at **hiteshgupta5151@gmail.com**
-- 📍 Based in Bhopal, Madhya Pradesh, India
+Computer Science (AI & ML) undergraduate specializing in developing and deploying **Retrieval-Augmented Generation (RAG)**, **Computer Vision**, and **Predictive Modeling** systems. Skilled in **Python, PyTorch, LangChain, FAISS, Scikit-learn, and FastAPI** for vector search, object detection, and real-time REST API integration.
 
 ---
 
-### 🛠️ Tech Stack
+### 🎓 Education
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**ML / DL / CV**
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Ultralytics YOLO](https://img.shields.io/badge/-YOLO-111F68?style=flat-square)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
-
-**Backend / Frontend**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+* **Vellore Institute of Technology** *(Sept 2023 – May 2027)*  
+  * **Degree:** B.Tech in Computer Science and Engineering (AI & ML)  
+  * **CGPA:** 8.68 / 10.0  
 
 ---
 
-### 🧪 Featured Projects
+### 💼 Work Experience
 
-#### 🛒 [Smart Retail Checkout System](https://github.com/hitesh-2005/Smart_Retail_Checkout_System)
-*Python · YOLOv8 · FastAPI · React.js · PyTorch · Ultralytics*
-- End-to-end AI-powered retail billing system — trained a **YOLOv8s** model on the **IIT Patna Grocery Dataset** (5,983 images, 1,816 product classes) for 100 epochs, achieving **mAP@50 of 0.285** across Indian retail brands like Amul, Maggi, and Haldirams.
-- Built a **FastAPI** backend for real-time inference and a **React.js** frontend with multi-image upload, confidence-based filtering, and automatic itemized billing with GST calculation and print export.
-- Tackled real-world ML challenges: class imbalance (avg. 3.3 samples/class), mixed annotation formats, and PyTorch/Ultralytics version compatibility.
-
-#### 🚗 [Lane Detection and Driver Assistance System](https://github.com/hitesh-2005/Lane-Detection-Assistance-System)
-*Python · NumPy · OpenCV · Ultralytics YOLO11*
-- End-to-end computer vision pipeline for lane segmentation and steering angle estimation, training a **YOLO11n-seg** model on the **Indian Driving Dataset (IDD)** with 6,993 annotated road images.
-- Engineered a mask-to-YOLO annotation pipeline using OpenCV contour detection to convert segmentation masks into polygon labels for an 80/20 train-validation split.
-- Designed a geometric steering angle algorithm (±30° range) from lane-centroid offset, with inference scripts and visual overlays for interpretability.
-
-#### 🌱 [Human Sustainability Score Prediction Model](https://github.com/hitesh-2005/carbonlens)
-*Python · Scikit-learn · pandas · NumPy · Matplotlib*
-- AI-driven modular pipeline (Electricity, Transport, Recycling, Tech) predicting individual sustainability scores by converting lifestyle inputs into standardized CO2 equivalents using logistic scaling functions.
-- Trained and evaluated **six ML models**; Linear Regression performed best with **R² = 0.68, MAE = 0.37**.
-- Visualized model performance through MSE comparisons, residual error distributions, and score distribution graphs to support data-driven environmental policymaking.
+#### **AI and Machine Learning Intern** — Edunet Foundation *(in association with Microsoft & AICTE)*
+*Remote | June 2025 – July 2025*
+* Trained classification and regression models with stratified cross-validation in Python, improving prediction accuracy on benchmark datasets.
+* Deployed multi-class image classification models using **Azure Custom Vision**, fine-tuning pre-trained architectures for cloud inference on **Microsoft Azure**.
 
 ---
 
-### 💼 Experience
+### 🚀 Projects
 
-**AI and Machine Learning Intern** — Edunet Foundation (in association with Microsoft and AICTE) · Remote
-*June 2025 – July 2025*
-- Gained hands-on experience with core ML concepts — supervised/unsupervised learning, classification, regression, and unlabeled data handling — through Microsoft Learn and Edunet LMS labs.
-- Explored Generative AI and Computer Vision on **Microsoft Azure**, working with Azure Custom Vision for image classification.
-- Developed **"AI-Based Medical Image Enhancement for Diagnostics Using GANs"** — a GAN-based system to enhance low-resolution medical images for resource-constrained healthcare settings.
+#### 1. **[AskTube — YouTube Video Q&A with Grounded RAG](https://github.com/hitesh-2005/AskTube)**
+*Python · LangChain · FAISS · FastAPI · Hugging Face* · *(July 2026)*
+* Architected a production RAG pipeline with FAISS and `multilingual-e5` embeddings, achieving **sub-150ms semantic retrieval** across video transcripts using 1,000-character chunking.
+* Optimized LLM inference using adaptive token budgeting via model binding, **reducing token overhead by 50%** while lowering query latency to 3.5s.
+* Enforced transcript-bounded system prompts to prevent hallucinations and injection breakouts, serving queries via a FastAPI backend validated by **77 automated tests with 100% pass rate**.
+
+#### 2. **[Smart Retail Checkout System](https://github.com/hitesh-2005/Smart_Retail_Checkout_System)**
+*Python · YOLOv8 · FastAPI · React.js · PyTorch* · *(February 2026)*
+* Fine-tuned a **YOLOv8s** object detection model on the **IIT Patna Grocery Dataset** (5,983 images, 1,816 classes) for 100 epochs, achieving **mAP@50 of 0.285** on Indian retail products.
+* Developed an asynchronous **FastAPI** inference engine and **React.js** dashboard, automating itemized GST billing to **reduce manual checkout time by 80%**.
+* Resolved dataset class imbalance using mosaic augmentations and oversampling, stabilizing PyTorch model convergence across 100 GPU training epochs.
+
+#### 3. **[CarbonLens Platform](https://github.com/hitesh-2005/Carbonlens)**
+*Python · CatBoost · FastAPI · Docker · Streamlit* · *(May 2025)*
+* Built a machine learning platform using FastAPI and Streamlit, converting lifestyle inputs into normalized sustainability scores and actionable reduction targets.
+* Benchmarked **CatBoost** against four regression models via 5-fold cross-validation, achieving an **$R^2$ score of 0.9829** and **MAE of 91.81** on 1,500 test samples.
+* Calibrated 90% prediction intervals with 92% empirical coverage under missing data, containerizing application services with **Docker** for production deployment.
 
 ---
 
-### 🏆 Achievements & Certifications
+### 🛠️ Technical Skills
 
-- 📜 Applied Machine Learning in Python — Coursera
-- 📜 Java Programming — HackerRank
-- 📜 Data Analytics Job Simulation — Deloitte Virtual Experience Program
-- 💻 Solved **300+ algorithmic problems** across LeetCode, Codeforces, and GeeksforGeeks
+* **Languages:** Python, Java, SQL
+* **AI & Machine Learning:** Retrieval-Augmented Generation (RAG), LangChain, FAISS (Vector DB), PyTorch, YOLOv8, CatBoost, Scikit-learn, OpenCV, Hugging Face
+* **Developer Tools & Cloud:** Docker, Git, GitHub, Microsoft Azure, AWS, VS Code, Jupyter Notebook, Google Colab
+* **Web & Frameworks:** FastAPI, Streamlit, React.js, RESTful APIs, NumPy, pandas, Matplotlib
 
 ---
-<p align="center"><i>Open to collaborating on CV/ML projects — feel free to reach out.</i></p>
 
+### 🏆 Certifications & Achievements
 
+* **AWS Certified AI Practitioner** — Amazon Web Services (AWS)
+* **Applied Machine Learning in Python** — Coursera
+* **Cloud Computing** — NPTEL
+* **Introduction to IoT** — NPTEL
+* **Java Programming** — HackerRank
+* **Honors & Competitions:** Selected for **Round 2 in Adobe University Hackathon 2026** (National AI Challenge) after qualifying in the Round 1 online assessment.
+* **Competitive Programming:** Solved **300+ data structures and algorithms problems** across LeetCode, CodeForces, and GeeksforGeeks.
+
+---
+
+<p align="center">
+  <a href="./RESUME_HITESH_GUPTA.pdf" target="_blank"><b>📥 Download Full Resume (PDF)</b></a> •
+  <a href="https://github.com/hitesh-2005"><b>🌐 Explore GitHub Profile</b></a>
+</p>
